@@ -1,0 +1,2 @@
+C:\Users\Ronan\source\repos\WebApplicationStephenAzureSearch\WebApplicationStephenAzureSearch\obj\Debug\WebApplicationStephenAzureSearch.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\WebApplicationStephenAzureSearch\WebApplicationStephenAzureSearch\obj\Debug\WebApplicationStephenAzureSearch.csproj.CoreCompileInputs.cache
